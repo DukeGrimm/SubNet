@@ -1,0 +1,25 @@
+Proprietary License
+
+Copyright © 2024 Drew Madsen
+
+1. Grant of License
+You are granted a non-transferable, non-exclusive license to view and use the software (the "Software") for personal use only.
+
+2. Restrictions
+
+You may not copy, modify, distribute, or create derivative works based on the Software without prior written permission from the copyright holder.
+You may not use the Software for commercial purposes without obtaining explicit permission.
+You may not sublicense or transfer your rights to use the Software to any third party.
+
+3. No Warranty
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+4. Termination
+This license is effective until terminated. It will terminate automatically without notice if you fail to comply with any of the terms and conditions. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+5. Governing Law
+This License shall be governed by and construed in accordance with the laws of Minnesota, United States of America.
+
+6. Contact Information
+For permissions or inquiries, please contact:
+madsen.drew@gmail.com

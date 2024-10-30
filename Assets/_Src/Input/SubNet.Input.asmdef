@@ -1,0 +1,17 @@
+{
+    "name": "SubNet.Input",
+    "rootNamespace": "SubNet.Input",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:81bd7ae3bd9c7ec4dbea6a4458e31f00"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

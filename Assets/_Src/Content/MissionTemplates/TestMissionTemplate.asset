@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b4f7833b911d947a179b68b1cf097b, type: 3}
+  m_Name: TestMissionTemplate
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _id
+      Entry: 2
+      Data: c7df92b6b6ad4f8eb60d2dd8b3a64a23
+    - Name: _name
+      Entry: 1
+      Data: Test Mission Alpha
+    - Name: missionType
+      Entry: 3
+      Data: 1
+    - Name: missionBreifingTemplate
+      Entry: 1
+      Data: Test Mission Alpha will have a breifing to tell you what you need to
+        do.
+    - Name: validTargetCorpClasses
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[SubNet.Common.Enum.Data.Corps.ECorpClass,
+        SubNet.Common]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: rewardCreditsRange
+      Entry: 7
+      Data: SubNet.Common.Structs.BasicTypes.IntRange, SubNet.Common
+    - Name: Min
+      Entry: 3
+      Data: 10
+    - Name: Max
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: rewardRep
+      Entry: 3
+      Data: 5

@@ -1,0 +1,21 @@
+{
+    "name": "SubNet.UI",
+    "rootNamespace": "Subnet.UI",
+    "references": [
+        "GUID:81bd7ae3bd9c7ec4dbea6a4458e31f00",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:cdffeb60d3d41e1418cca506ca913aab",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:1f4d690e13298d9409bb6c59b2f1a30f",
+        "GUID:b5f4cbdc09b21fb47ad8b7c1d265740c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

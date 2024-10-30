@@ -1,0 +1,19 @@
+{
+    "name": "SubNet.Integration",
+    "rootNamespace": "SubNet.Integration",
+    "references": [
+        "GUID:81bd7ae3bd9c7ec4dbea6a4458e31f00",
+        "GUID:cdffeb60d3d41e1418cca506ca913aab",
+        "GUID:1f4d690e13298d9409bb6c59b2f1a30f",
+        "GUID:b5f4cbdc09b21fb47ad8b7c1d265740c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

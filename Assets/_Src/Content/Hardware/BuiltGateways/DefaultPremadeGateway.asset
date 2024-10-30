@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532080a50a3d252478d8ac9b70f9937e, type: 3}
+  m_Name: DefaultPremadeGateway
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _id
+      Entry: 2
+      Data: cd1dd6713b1548ee9559bb6ef40ea7b0
+    - Name: _name
+      Entry: 1
+      Data: Basic Rig
+  SourceGateway: {fileID: 11400000, guid: a9af6d6ef8a4aa6479305f7df8d8e1c1, type: 2}
+  maxCPUSlots: 1
+  maxRAMSlots: 2
+  maxDataShardSlots: 2
+  CPU:
+  - {fileID: 11400000, guid: 93f534f8c4a7f49438148ad01acf7955, type: 2}
+  RAM:
+  - {fileID: 11400000, guid: dd8dff3d9c20ad54786ce793fc546a22, type: 2}
+  - {fileID: 11400000, guid: dd8dff3d9c20ad54786ce793fc546a22, type: 2}
+  Shards:
+  - {fileID: 11400000, guid: 7cc295b40fef8ab45a1b6f85517fa355, type: 2}
+  - {fileID: 11400000, guid: 7cc295b40fef8ab45a1b6f85517fa355, type: 2}
